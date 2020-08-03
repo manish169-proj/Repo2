@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 0424-5746
+
+ Directory of C:\Users\manish\Desktop\MyProj
+
+2020-08-03  02:19 PM    <DIR>          .
+2020-08-03  02:19 PM    <DIR>          ..
+2020-08-03  02:19 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  229,845,475,328 bytes free
